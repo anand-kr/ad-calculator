@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#FFFFFF</color>
+    <color name="lightwhite">#727070</color>
+    <color name="black">#0E0D0D</color>
+    <color name="lightblack">#8B8888</color>
+    <color name="green">#317A34</color>
+    <color name="red">#A22F26</color>
+    <color name="matcolor">#329E93</color>
+    <color name="mainappcolor">#132F45</color>
+    <color name="lightmainappcolor">#276797</color>
+    <color name="rippleeffect">#417096</color>
+    <color name="mainappcolordark">#132F45</color>
+    <color name="lightgreen">#398D3D</color>
+    <color name="lightgrey">#F0EDED</color>
+    <color name="grey">#C0BBBB</color>
+    <color name="mediumgrey">#817E7E</color>
+    <color name="darkgrey">#525050</color>
+    <color name="transparent">#80000000</color>
+    <color name="yellow">#DDAD24</color>
+    <color name="colorRipple">#A9A9F5</color>
+    <color name="darkblue">#101D61</color>
+    <color name="titlebackgroundcolor">#3232CD</color>
+    <color name="titletextcolor">#FFFF00</color>
+    <color name="pink">#FAAD3D</color>
+    <color name="bluemixgrey">#AABBC4</color>
+</resources>
